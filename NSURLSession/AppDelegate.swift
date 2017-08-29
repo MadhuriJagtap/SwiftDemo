@@ -22,6 +22,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //erhgertherth
         //grhttyjrtyj
         
+        
+        //ewrgrg
+        //reg4rg
+        //r3g24g245
+        //r32g234tgh42h
+        
         return true
     }
 
